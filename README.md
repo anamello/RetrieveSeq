@@ -30,11 +30,11 @@ Ps.: you might need to change permission before running:
 ## Cite this application
 
 - APA:
-Ana Carolina, M., & Ursula, M. (2021). RetrieveSeq (Version v1.1.1-beta) [Computer software]. https://github.com/anamello/RetrieveSeq
+Mello, A. C., & Matte, U. (2021). RetrieveSeq (Version v1.1.1-beta) [Computer software]. https://github.com/anamello/RetrieveSeq
 
 - BibTex:
 @software{Ana_Carolina_RetrieveSeq_2021,
-author = {Ana Carolina, Mello and Ursula, Matte},
+author = {Mello, Ana Carolina and Matte, Ursula},
 month = {12},
 title = {{RetrieveSeq}},
 url = {https://github.com/anamello/RetrieveSeq},
