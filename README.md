@@ -26,3 +26,18 @@ Ps.: you might need to change permission before running:
 - In the next page, configure your output file(s).
 - When downloading data via gene symbol, you can download selected genes for one species or more, just paste or type species separated by comma in the entry box. If you want to download genes for all species in the database, type "all" in the species entry box.
 - A log file will be saved in the same directory you choose to save the genes. While running, RetrieveSeq BETA saves useful information in the log file (ex.: why determined gene can't be downloaded).
+
+## Cite this application
+
+- APA:
+Ana Carolina, M., & Ursula, M. (2021). RetrieveSeq (Version v1.1.1-beta) [Computer software]. https://github.com/anamello/RetrieveSeq
+
+- BibTex:
+@software{Ana_Carolina_RetrieveSeq_2021,
+author = {Ana Carolina, Mello and Ursula, Matte},
+month = {12},
+title = {{RetrieveSeq}},
+url = {https://github.com/anamello/RetrieveSeq},
+version = {v1.1.1-beta},
+year = {2021}
+}
