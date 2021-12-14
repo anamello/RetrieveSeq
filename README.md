@@ -6,6 +6,7 @@ RetrieveSeq is a GUI application that performs batch download of how many gene s
 In order to properly run RetrieveSeq BETA, you need to have the following tools installed in your device:
 - Python3
 - Pillow (Python3 library). To install Pillow, open the terminal and type:
+
 	$ sudo pip3 install Pillow
 
 ## Running RetrieveSeq
