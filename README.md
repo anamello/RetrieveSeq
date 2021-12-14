@@ -1,14 +1,14 @@
 # RetrieveSeq (beta)
 RetrieveSeq is a GUI application that performs batch download of how many gene sequences you wish from Ensembl database. Mind you: this application is still in development. Our goal is to increase its functions, as well as provide more database options.
 
-## DEPENDENCIES
+## Dependencies
 
 In order to properly run RetrieveSeq BETA, you need to have the following tools installed in your device:
 - Python3
 - Pillow (Python3 library). To install Pillow, open the terminal and type:
 	$ sudo pip3 install Pillow
 
-## RUNNING RETRIEVESEQ
+## Running RetrieveSeq
 
 Open the terminal in the application folder and type the following:
 
@@ -18,7 +18,7 @@ Ps.: you might need to change permission before running:
 
 	$ chmod a+x main.py
 
-## USING RETRIEVESEQ
+## Using RetrieveSeq
 
 - Type or paste the gene symbols or gene ID separated by comma (anything else won't work) in the genes entry box.
 - RetrieveSeq BETA only works with gene symbol or gene ID!
